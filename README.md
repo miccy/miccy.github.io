@@ -107,7 +107,7 @@ Obor Informační technologie
 - 2023
 - Stack: React Native, Expo
 
-**[myPlann - Zůstaňte navždy u klienta | CZ](https://www.sabservis.cz/myplann)**
+#### [myPlann](https://www.sabservis.cz/myplann) - Zůstaňte navždy u klienta | CZ
 
 - [SABService](https://www.sabservis.cz)
 - 2022
