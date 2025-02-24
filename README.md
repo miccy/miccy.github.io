@@ -1,9 +1,3 @@
-# Miloš Macek (Miccy)
-
-[🇬🇧 English version](docs/en/README.md)
-
-Toto README.md bude dočasně sloužit i jako moje CV, než dokončím nové webové stránky.
-
 ## 📋 Obsah
 
 - [🚀 O mně](#-o-mně)
@@ -228,5 +222,3 @@ Kompletní business řešení
 - Moje GitHub organizace: [@miccy-dev](https://github.com/miccy-dev)
 - Email: [info@miccy.dev](mailto:info@miccy.dev)
 - Email pro pracovní nabídky: [jobs@miccy.dev](mailto:jobs@miccy.dev)
-
-<a href="https://app.daily.dev/miccy"><img src="https://api.daily.dev/devcards/v2/U0R5XRwnYQG8wlO3t7DH3.png?type=wide&r=252" width="652" alt="Miccy's Dev Card"/></a>
