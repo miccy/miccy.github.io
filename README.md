@@ -185,8 +185,6 @@ Obor Informační technologie
 - Vytvořeno k 150. výročí bitvy u Hradce Králové
 - Android/iOS
 
-#### Turistické a vzdělávací aplikace
-
 #### Dny Evropského Dědictví (2022)
 
 - Mobilní aplikace pro EHD
@@ -197,8 +195,6 @@ Obor Informační technologie
 - Vzdělávací dětská hra pro Textilní muzeum Dvůr Králové
 - Implementace pro tablety a informační kiosky
 - Native Android (Java)
-
-#### Průvodci a informační systémy
 
 #### Kojetín v mobilu (2020)
 
