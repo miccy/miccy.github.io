@@ -9,8 +9,8 @@
   - [🛠️ Vývojářské nástroje](#️-vývojářské-nástroje)
 - [👨‍🎓 Vzdělání](#-vzdělání)
 - [📚 Pracovní zkušenosti a projekty](#-pracovní-zkušenosti-a-projekty)
-  - [💼 Freelancer (2019 - současnost)](#-leden-2019---současnost-freelancer-remote-full-stack-vývojář)
-  - [💼 As4u.cz (2004 - 2018)](#-květen-2004---prosinec-2018-as4ucz-sro-liberec-vývojář-mobilních-aplikací)
+  - [💼 Freelancer (2019 - současnost)](#-freelancer-2019---současnost)
+  - [💼 As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
 - [🔭 Aktuální projekty](#-aktuální-projekty)
 - [🔗 Aktuálně se zabývám](#-aktuálně-se-zabývám)
 - [📫 Kontakty](#-kontakty)
@@ -81,7 +81,7 @@ Obor Informační technologie
 
 ## 📚 Pracovní zkušenosti a projekty
 
-### 💼 leden 2019 - současnost: Freelancer, remote (Full-stack vývojář)
+### 💼 Freelancer (2019 - současnost)
 
 #### [SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software | UK
 
@@ -119,75 +119,117 @@ Obor Informační technologie
 - 2020
 - Stack: React Native, Expo, Firebase
 
-### 💼 květen 2004 - prosinec 2018: [As4u.cz, s.r.o.](https://www.as4u.cz/), Liberec (Vývojář mobilních aplikací)
+### 💼 As4u.cz (2004 - 2018)
 
-- **Vrbno v mobilu** (2023)
+- [As4u.cz, s.r.o.](https://www.as4u.cz/), Liberec (Vývojář mobilních aplikací)
 
-  - Oficiální aplikace města Vrbno pod Pradědem
-  - React Native (Android / iOS)
+#### Turnov v mobilu (2024 | last updated 2025)
 
-- **Šumperk v mobilu** (2023)
+- Oficiální aplikace města Turnov
+- Expo, React Native, Supabase, Drizzle ORM
 
-  - Oficiální aplikace města Šumperk
-  - React Native a Expo (Android a iOS)
+#### Praha 11 (2024 | last updated 2025)
 
-- **Jindřichův Hradec v mobilu** (2015)
+- Oficiální aplikace města Praha 11
+- Expo, React Native, Supabase, Drizzle ORM
 
-  - Oficiální aplikace města
-  - Migrace z Cordova na React Native a Expo
+#### Cestovatelský fotodeník (2023 | last updated 2024)
 
-- **Kuřim v mobilu** (2014)
+- Cestovatelská soutěžní hra
+- Expo, React Native
 
-  - Oficiální aplikace města Kuřim
-  - React Native a Expo (Android / iOS)
+#### Vrbno v mobilu (2023 | last updated 2024)
 
-- **Jablonec v mobilu** (2014)
+- Oficiální aplikace města Vrbno pod Pradědem
+- React Native (Android / iOS)
 
-  - Oficiální aplikace města Jablonec nad Nisou
-  - Migrace z Ionic/Cordova na React Native a Expo
+#### Prostějov v mobilu (2023 | last updated 2024)
 
-- **Cestovatelský fotodeník** (2023)
+- Oficiální aplikace města Prostějov
+- Expo, React Native
 
-  - Cestovatelská soutěžní hra
-  - React Native a Expo (Android / iOS)
+#### Jablonec v mobilu (2014 | last updated 2024)
 
-- **Poznej Hradec** (2014)
+- Oficiální aplikace města Jablonec nad Nisou
+- Migrace z Ionic/Cordova na React Native a Expo
 
-  - Poznávací a soutěžní hra města Jindřichův Hradec
-  - Každoroční aktualizace pro turistickou sezónu
-  - React Native (Android / iOS)
+#### Litovel v mobilu (2016 | last updated 2024)
 
-- **BITVA 1866** (2016)
+- Oficiální aplikace města Litovel
+- React Native (Android / iOS)
 
-  - Mobilní aplikace pro muzeum východních Čech v Hradci Králové
-  - Vytvořeno k 150. výročí bitvy u Hradce Králové
-  - Android/iOS
+#### Šumperk v mobilu (2023)
 
-- **Textilní a oděvní dílna** (2016)
+- Oficiální aplikace města Šumperk
+- React Native a Expo (Android a iOS)
 
-  - Vzdělávací dětská hra pro Textilní muzeum Dvůr Králové
-  - Implementace pro tablety a informační kiosky
-  - Cordova (Android/iOS)
+#### Jindřichův Hradec v mobilu (2015 | last updated 2023)
 
-- **Mladoboleslavsko** (2015)
+- Oficiální aplikace města
+- Migrace z Cordova na React Native a Expo
 
-  - Oficiální turistický průvodce regionem
-  - Cordova (Android/iOS)
+#### Kuřim v mobilu (2014 | last updated 2023)
 
-- **Český ráj** (2015)
+- Oficiální aplikace města Kuřim
+- React Native a Expo (Android / iOS)
 
-  - Oficiální turistický průvodce regionem
-  - Cordova (Android/iOS)
+#### Poznej Hradec (2014 | last updated 2023)
 
-- **Český systém kvality služeb** (2015)
+- Poznávací a soutěžní hra města Jindřichův Hradec
+- Každoroční aktualizace pro turistickou sezónu
+- React Native (Android / iOS)
 
-  - Oficiální aplikace ČSKS
-  - Vyhledávání a hodnocení certifikovaných subjektů
-  - Cordova (Android/iOS)
+#### BITVA 1866 (2016 | last updated 2023)
 
-- **Průvodce Libereckým krajem** (2015)
-  - Oficiální turistický průvodce
-  - Cordova (Android/iOS)
+- Mobilní aplikace pro muzeum východních Čech v Hradci Králové
+- Vytvořeno k 150. výročí bitvy u Hradce Králové
+- Android/iOS
+
+#### Turistické a vzdělávací aplikace
+
+#### Dny Evropského Dědictví (2022)
+
+- Mobilní aplikace pro EHD
+- Expo, React Native
+
+#### Textilní a oděvní dílna (2016)
+
+- Vzdělávací dětská hra pro Textilní muzeum Dvůr Králové
+- Implementace pro tablety a informační kiosky
+- Native Android (Java)
+
+#### Průvodci a informační systémy
+
+#### Kojetín v mobilu (2020)
+
+- Oficiální aplikace města Kojetín
+- Expo, React Native
+
+#### Týniště nad Orlicí (2020)
+
+- Oficiální aplikace města Týniště nad Orlicí
+- Expo, React Native
+
+#### Český ráj (2020)
+
+- Oficiální turistický průvodce
+- Expo, React Native
+
+#### Český systém kvality služeb (2015)
+
+- Oficiální aplikace ČSKS
+- Vyhledávání a hodnocení certifikovaných subjektů
+- Cordova (Android/iOS)
+
+#### Mladoboleslavsko (2015)
+
+- Oficiální turistický průvodce regionem
+- Ionic/Cordova (Android/iOS)
+
+#### Průvodce Libereckým krajem (2015)
+
+- Oficiální turistický průvodce
+- Ionic/Cordova (Android/iOS)
 
 ## 🔭 Aktuální projekty
 
