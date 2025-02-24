@@ -119,7 +119,7 @@ Obor Informační technologie
 - 2020
 - Stack: React Native, Expo, Firebase
 
-### 💼 květen 2004 - prosinec 2018: As4u.cz, s.r.o., Liberec (Vývojář mobilních aplikací)
+### 💼 květen 2004 - prosinec 2018: [As4u.cz, s.r.o.](https://www.as4u.cz/), Liberec (Vývojář mobilních aplikací)
 
 - **Vrbno v mobilu** (2023)
 
