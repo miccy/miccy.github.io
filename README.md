@@ -210,15 +210,16 @@ Kompletní business řešení
 
 ## 🔗 Aktuálně se zabývám
 
-- Prisma - ORM pro Next.js
+- [Prisma](https://www.prisma.io/) - ORM pro Next.js
 - [thirdweb](https://github.com/thirdweb-dev/js) - Framework pro Web3 vývoj
-- DeepSeek - Vlastní AI SaaS
-- Gaia Network
-- zk Rollups
+- [DeepSeek](https://www.deepseek.com/) - Vlastní AI SaaS
+- [Gaia Network](https://www.gaianetwork.io/)
+- [zkSync](https://zksync.io/)
 
 ## 📫 Kontakty
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miccy)
-[![GitHub - Org](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miccy-dev)
-[![Email - Info](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@miccy.dev)
-[![Email - Jobs](https://img.shields.io/badge/Jobs-EA4335?style=for-the-badge&logo=google-chat&logoColor=white)](mailto:jobs@miccy.dev)
+- 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
+- 🔗 GitHub - Osobní: [@miccy](https://github.com/miccy)
+- 🔗 GitHub - Organizace: [@miccy-dev](https://github.com/miccy-dev)
+- 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
+- 📧 Email - Spolupráce: [jobs@miccy.dev](mailto:jobs@miccy.dev)
