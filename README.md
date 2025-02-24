@@ -83,25 +83,25 @@ Obor Informační technologie
 
 ### 💼 leden 2019 - současnost: Freelancer, remote (Full-stack vývojář)
 
-**[SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software | UK**
+#### [SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software | UK
 
 - DownloDev
 - březen 2023 - srpen 2024
 - Stack: Expo, TypeScript, React Native
 
-**[Union](https://www.union.sk/union-zp-aplikacia-na-mobile) - zdravotní pojišťovna | SK**
+#### [Union](https://www.union.sk/union-zp-aplikacia-na-mobile) - zdravotní pojišťovna | SK
 
 - [BOOTIQ, part of BiQ Group](https://www.bootiq.io)
 - březen 2022 - říjen 2022
 - Stack: TypeScript, GraphQL, React Native
 
-**[Mamio](https://www.mamio-app.com) - Těhotenská aplikace pro slovenský trh | SK**
+#### [Mamio](https://www.mamio-app.com) - Těhotenská aplikace pro slovenský trh | SK
 
 - [Eliaš IT Solutions](https://elias-itsolutions.sk)
 - květen 2021 - prosinec 2022
 - Stack: React Native, Expo
 
-**[Tlappka](https://www.tlappka.cz/) - Zdraví mazlíčků v kapse | CZ**
+#### [Tlappka](https://www.tlappka.cz/) - Zdraví mazlíčků v kapse | CZ
 
 - [Veevoy](https://veevoy.com)
 - 2023
@@ -113,7 +113,7 @@ Obor Informační technologie
 - 2022
 - Stack: React Native, Expo
 
-**Keys of the Treasure - Geolokační hra | CZ**
+#### Keys of the Treasure - Geolokační hra | CZ
 
 - [Sundisk](https://www.sundisk.cz/cs/)
 - 2020
