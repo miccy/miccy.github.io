@@ -83,41 +83,41 @@ Obor Informační technologie
 
 ### 💼 leden 2019 - současnost: Freelancer, remote (Full-stack vývojář)
 
-**[SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software**
+**[SPUD Now](https://spudnow.co.uk/) - Construction Project Management Software | UK**
 
 - DownloDev
 - březen 2023 - srpen 2024
 - Stack: Expo, TypeScript, React Native
 
-**Union - zdravotní pojišťovna**
+**[Union](https://www.union.sk/union-zp-aplikacia-na-mobile) - zdravotní pojišťovna | SK**
 
-- BOOTIQ, part of BiQ Group
+- [BOOTIQ, part of BiQ Group](https://www.bootiq.io)
 - březen 2022 - říjen 2022
 - Stack: TypeScript, GraphQL, React Native
 
-**[Mamee](https://mamee.sk/) - Těhotenská aplikace pro slovenský trh**
+**[Mamio](https://www.mamio-app.com) - Těhotenská aplikace pro slovenský trh | SK**
 
-- Eliaš IT Solutions
-- květen 2021 - prosinec 2021
+- [Eliaš IT Solutions](https://elias-itsolutions.sk)
+- květen 2021 - prosinec 2022
 - Stack: React Native, Expo
 
-**Tlappka - Veterinář v kapse**
+**[Tlappka](https://www.tlappka.cz/) - Zdraví mazlíčků v kapse | CZ**
 
-- Veevoy
+- [Veevoy](https://veevoy.com)
 - 2023
 - Stack: React Native, Expo
 
-**My Plan**
+**[myPlann](https://www.sabservis.cz/myplann) - Zůstaňte navždy u klienta | CZ**
 
-- SABService
+- [SABService](https://www.sabservis.cz)
 - 2022
 - Stack: React Native, Expo
 
-**Keys of the Treasure**
+**Keys of the Treasure - Geolokační hra | CZ**
 
-- Sundisk
+- [Sundisk](https://www.sundisk.cz/cs/)
 - 2020
-- Stack: React Native, Expo
+- Stack: React Native, Expo, Firebase
 
 ### 💼 květen 2004 - prosinec 2018: As4u.cz, s.r.o., Liberec (Vývojář mobilních aplikací)
 
