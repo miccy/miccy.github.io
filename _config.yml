@@ -1,0 +1,22 @@
+title: Miloš Macek - Portfolio
+description: Full Stack Developer | Hybrid Mobile App Specialist | Web3 and Blockchain Enthusiast
+lang: cs
+theme: jekyll-theme-primer
+favicon: assets/favicon.ico
+
+# Nastavení Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# GitHub stránky
+github:
+  is_project_page: false
+  repository_url: https://github.com/miccy
+
+# Sociální sítě
+social:
+  github: miccy
+  linkedin: miccy
+  email: info@miccy.dev

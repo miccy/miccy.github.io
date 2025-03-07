@@ -1,0 +1,135 @@
+@import "{{ site.theme }}";
+
+/* Dark/Light Mode */
+:root {
+  --bg-color: #0d1117;
+  --text-color: #c9d1d9;
+  --link-color: #58a6ff;
+  --heading-color: #e6edf3;
+  --border-color: #30363d;
+  --card-bg: #161b22;
+}
+
+:root[data-theme="light"] {
+  --bg-color: #ffffff;
+  --text-color: #1a1a1a;
+  --link-color: #0366d6;
+  --heading-color: #24292e;
+  --border-color: #e1e4e8;
+  --card-bg: #f6f8fa;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+.markdown-body {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  padding: 45px;
+  padding-top: 30px;
+}
+
+/* Další vylepšení pro banner a text */
+div[style*="position: relative"] {
+  z-index: 1;
+  margin-top: 15px;
+}
+
+div[style*="position: absolute"] {
+  z-index: 10 !important; /* Velmi důležité - překryje vše ostatní */
+}
+
+/* Pro obrázek banneru */
+img[src*="miccy-dev-banner.png"] {
+  position: relative;
+  z-index: 1;
+}
+
+/* Theme switcher */
+.theme-switch-wrapper {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+}
+
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display: none;
+}
+
+.slider {
+  background-color: var(--card-bg);
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.4s;
+  border-radius: 34px;
+}
+
+.slider:before {
+  background-color: var(--link-color);
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: 0.4s;
+  width: 26px;
+  border-radius: 50%;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+.slider-icons {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  box-sizing: border-box;
+}
+
+.slider-icons span {
+  color: var(--text-color);
+  font-size: 18px;
+}
+
+/* Responzivní úpravy */
+@media (max-width: 768px) {
+  .theme-switch-wrapper {
+    top: 10px;
+    right: 10px;
+  }
+
+  .markdown-body {
+    padding: 25px;
+  }
+}
