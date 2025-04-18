@@ -10,10 +10,10 @@
     <p style="margin-top: 10px; font-size: 1em; color: white !important; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Mobile | Web | Desktop | BaaS | SaaS | LLM | MCP | Bitcoin</p>
   </div>
 </div> -->
-<br />
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <a href="../cs/README.md">
-    <img src="https://img.shields.io/badge/🇨🇿_Česky-E4405F?style=for-the-badge" alt="Česká verze"/>
+<br/>
+<div align="center" style="margin-top: 10px; margin-bottom: 30px;">
+<a href="../en/README.md">
+    <img src="https://img.shields.io/badge/🇬🇧_English-00ACEE?style=for-the-badge" alt="English version"/>
   </a>
   <a href="mailto:info@miccy.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -25,49 +25,49 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-<br />
+<br/>
 <p align="center">
-  <a href="#-about-me">About Me</a>
+  <a href="#-o-mně">O mně</a>
   ·
   <a href="#-tech-stack">Tech Stack</a>
   ·
-  <a href="#-education">Education</a>
+  <a href="#-vzdělání">Vzdělání</a>
   ·
-  <a href="#-work-experience-and-projects">Projects</a>
+  <a href="#-pracovní-zkušenosti-a-projekty">Projekty</a>
   ·
-  <a href="#-current-projects">Current Projects</a>
+  <a href="#-aktuální-projekty">Aktuální projekty</a>
   ·
-  <a href="#-contacts">Contact</a>
+  <a href="#-kontakty">Kontakt</a>
 </p>
 
 <!-- <details style="display: none;">
-<summary>Hidden content for tools</summary>
+<summary>Skrytý obsah pro nástroje</summary>
 
-## 📋 Contents
+## 📋 Obsah
 
-- [📋 Contents](#-contents)
-- [🚀 About Me](#-about-me)
+- [📋 Obsah](#-obsah)
+- [🚀 O mně](#-o-mně)
 - [🛠 Tech Stack](#-tech-stack)
 - [🔄 Timeline](#-timeline)
-- [👨‍🎓 Education](#-education)
+- [👨‍🎓 Vzdělání](#-vzdělání)
   - [🎓 2010 - 2014](#-2010---2014)
   - [🎓 2008 - 2010](#-2008---2010)
   - [🎓 2004 - 2008](#-2004---2008)
-- [📚 Work Experience and Projects](#-work-experience-and-projects)
-  - [💼 Freelancer (2019 - Present)](#-freelancer-2019---present)
+- [📚 Pracovní zkušenosti a projekty](#-pracovní-zkušenosti-a-projekty)
+  - [💼 Freelancer (2019 - současnost)](#-freelancer-2019---současnost)
   - [💼 As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
-- [🔭 Current Projects](#-current-projects)
+- [🔭 Aktuální projekty](#-aktuální-projekty)
   - [🎨 miccy-verse](#-miccy-verse)
   - [₿ SATstation](#-satstation)
   - [💎 Zvono Pawnshop](#-zvono-pawnshop)
   - [💡 Ignis WLED controller](#-ignis-wled-controller)
-- [📫 Contacts](#-contacts)
+- [📫 Kontakty](#-kontakty)
 </details>
 <br/> -->
 
-## 🚀 About Me
+## 🚀 O mně
 
-I am an independent full-stack developer with fifteen years of experience. Previously, I specialized mainly in mobile application development, but currently I'm focusing more on backend, SaaS, while keeping up with web application innovations and exploring LLM integration. My goal is to create robust, user-friendly solutions that connect proven practices with emerging technologies.
+Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve jsem se specializoval hlavně na vývoj mobilních aplikací, ale v současné době se zaměřuji více na backend, SaaS, neopomíjím ani novinky ohledně webových aplikací, zkoumám možnosti integrace LLMs. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují osvědčené postupy a nově vznikající technologie.
 
 <!-- ## 📊 GitHub Stats
 
@@ -85,9 +85,9 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 
 <div align="left">
 
-- ### Programming Languages: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/><img src="https://img.shields.io/badge/Effect-5364FF?style=for-the-badge&logoColor=white" alt="Effect"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></span>
+- ### Programovací jazyky: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/><img src="https://img.shields.io/badge/Effect-5364FF?style=for-the-badge&logoColor=white" alt="Effect"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></span>
 
-- ### Mobile Development: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/><img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo"/><img src="https://img.shields.io/badge/EAS-000000?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"/><img src="https://img.shields.io/badge/Tamagui-8358FF?style=for-the-badge&logoColor=white" alt="Tamagui"/><img src="https://img.shields.io/badge/Gluestack-E535AB?style=for-the-badge&logoColor=white" alt="Gluestack"/><img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind"/><img src="https://img.shields.io/badge/Lynx-6EE7B7?style=for-the-badge&logoColor=white" alt="Lynx"/></span>
+- ### Mobilní vývoj: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/><img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo"/><img src="https://img.shields.io/badge/EAS-000000?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"/><img src="https://img.shields.io/badge/Tamagui-8358FF?style=for-the-badge&logoColor=white" alt="Tamagui"/><img src="https://img.shields.io/badge/Gluestack-E535AB?style=for-the-badge&logoColor=white" alt="Gluestack"/><img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind"/></span>
 
 - ### Frontend UI/UX: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/><img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></span>
 
@@ -103,21 +103,21 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 
 - ### DevOps & CI/CD: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/><img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Turborepo"/></span>
 
-- ### Testing: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/><img src="https://img.shields.io/badge/Detox-5849BE?style=for-the-badge&logo=react&logoColor=white" alt="Detox"/><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></span>
+- ### Testování: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/><img src="https://img.shields.io/badge/Detox-5849BE?style=for-the-badge&logo=react&logoColor=white" alt="Detox"/><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></span>
 
 - ### Monitoring: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></span>
 
-- ### Development Tools: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/><img src="https://img.shields.io/badge/Cursor-121212?style=for-the-badge&logoColor=white" alt="Cursor"/><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/></span>
+- ### Vývojové nástroje: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/><img src="https://img.shields.io/badge/Cursor-121212?style=for-the-badge&logoColor=white" alt="Cursor"/><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/></span>
 
-- ### Security & Authentication: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logoColor=white" alt="Clerk"/><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/><img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"/><img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logoColor=white" alt="OAuth"/></span>
+- ### Bezpečnost & Autentizace: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logoColor=white" alt="Clerk"/><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/><img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"/><img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logoColor=white" alt="OAuth"/></span>
 
-- ### Payment Gateways: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></span>
+- ### Platební brány: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></span>
 
 - ### CMS: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Payload_CMS-333333?style=for-the-badge&logo=payload&logoColor=white" alt="Payload CMS"/><img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/><img src="https://img.shields.io/badge/Directus-263238?style=for-the-badge&logo=directus&logoColor=white" alt="Directus"/></span>
 
 - ### AI & ML: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/><img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white" alt="LangChain"/><img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/></span>
 
-- ### Desktop Applications: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/></span>
+- ### Desktop aplikace: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/></span>
 
 </div>
 
@@ -126,12 +126,12 @@ I am an independent full-stack developer with fifteen years of experience. Previ
 ```mermaid
 timeline
     title My Professional Journey
-    2014 : Joined As4u.cz
-    2015 : Mobile apps for Android (Java)
-    2016 : Hybrid mobile apps Ionic/Cordova
-    2017 : Transition to React Native
-    2019 : Left As4u.cz, started as Freelancer
-    2020 : Expo and EAS
+    2014 : Nástup do As4u.cz
+    2015 : Mobilní aplikace pro Android (Java)
+    2016 : Hybridní mobilní aplikace Ionic/Cordova
+    2017 : Přechod na React Native
+    2019 : Odchod z As4u.cz start Freelancer
+    2020 : Expo a EAS
     2022 : NextJS, NodeJS, Backend
     2023 : Full Stack Developer
     2024 : LLM, RAG, MCP
@@ -145,33 +145,33 @@ timeline
   </a>
 </div> -->
 
-## 👨‍🎓 Education
+## 👨‍🎓 Vzdělání
 
 ### 🎓 2010 - 2014
 
-**Technical University of Liberec, Faculty of Electrical Engineering and Computer Science**
+**Technická univerzita v Liberci, Fakulta elektrotechniky a informatiky**
 
-- Field of Information Technology
-- Incomplete
+- Obor Informační technologie
+- Nedokončeno
 
 ### 🎓 2008 - 2010
 
-**Czech Technical University in Prague, Faculty of Electrical Engineering**
+**ČVUT, Fakulta elektrotechnická, Praha**
 
-- Field of Electrical Engineering
-- Transferred to TUL
+- Obor Elektrotechnika
+- Přestup na TUL
 
 ### 🎓 2004 - 2008
 
-**VOŠ and SPŠ Masarykova, Kutná Hora**
+**VOŠ a SPŠ Masarykova, Kutná Hora**
 
-- Field of Electrical Engineering - Communication Technology
+- Obor Elektrotechnika - Sdělovací technika
 
-## 📚 Work Experience and Projects
+## 📚 Pracovní zkušenosti a projekty
 
-### 💼 Freelancer (2019 - Present)
+### 💼 Freelancer (2019 - současnost)
 
-| Project                                                    | Client                                             | Duration          | Stack                                  |
+| Název                                                      | Klient                                             | Doba trvání       | Stack                                  |
 | ---------------------------------------------------------- | -------------------------------------------------- | ----------------- | -------------------------------------- |
 | [SPUD Now](https://spudnow.co.uk/)                         | DownloDev                                          | 03/2023 - 08/2024 | Expo, React Native, RestAPI            |
 | [Tlappka](https://www.tlappka.cz/)                         | [Veevoy](https://veevoy.com)                       | 2023              | React Native, Expo, Tamagui, Storybook |
@@ -183,37 +183,37 @@ timeline
 
 ### 💼 As4u.cz (2004 - 2018)
 
-- App updates until 2024
+- Updaty aplikací do 2024
 
-| Project                     | Year      | Stack                                                 |
-| --------------------------- | --------- | ----------------------------------------------------- |
-| Turnov v mobilu             | 2015-2024 | Expo, React Native, Supabase, Drizzle ORM             |
-| Praha 11                    | 2016-2024 | Expo, React Native, Supabase, Drizzle ORM             |
-| Cestovatelský fotodeník     | 2017-2023 | Expo, React Native                                    |
-| Vrbno v mobilu              | 2018-2023 | React Native (Android / iOS)                          |
-| Prostějov v mobilu          | 2018-2023 | Expo, React Native                                    |
-| Jablonec v mobilu           | 2014-2024 | Migration from Ionic/Cordova to React Native and Expo |
-| Litovel v mobilu            | 2016-2024 | React Native (Android / iOS)                          |
-| Šumperk v mobilu            | 2015-2023 | React Native and Expo                                 |
-| Jindřichův Hradec v mobilu  | 2015-2023 | Migration from Cordova to React Native and Expo       |
-| Kuřim v mobilu              | 2014-2023 | React Native and Expo                                 |
-| Poznej Hradec               | 2014-2023 | React Native (Android / iOS)                          |
-| BITVA 1866                  | 2016-2023 | Android/iOS                                           |
-| Dny Evropského Dědictví     | 2018-2022 | Expo, React Native                                    |
-| Textilní a oděvní dílna     | 2016      | Native Android (Java)                                 |
-| Kojetín v mobilu            | 2016-2020 | Expo, React Native                                    |
-| Týniště nad Orlicí          | 2017-2020 | Expo, React Native                                    |
-| Český ráj                   | 2016-2020 | Expo, React Native                                    |
-| Český systém kvality služeb | 2015      | Cordova (Android/iOS)                                 |
-| Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                           |
-| Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                           |
+| Název                       | Rok       | Stack                                          |
+| --------------------------- | --------- | ---------------------------------------------- |
+| Turnov v mobilu             | 2015-2024 | Expo, React Native, Supabase, Drizzle ORM      |
+| Praha 11                    | 2016-2024 | Expo, React Native, Supabase, Drizzle ORM      |
+| Cestovatelský fotodeník     | 2017-2023 | Expo, React Native                             |
+| Vrbno v mobilu              | 2018-2023 | React Native (Android / iOS)                   |
+| Prostějov v mobilu          | 2018-2023 | Expo, React Native                             |
+| Jablonec v mobilu           | 2014-2024 | Migrace z Ionic/Cordova na React Native a Expo |
+| Litovel v mobilu            | 2016-2024 | React Native (Android / iOS)                   |
+| Šumperk v mobilu            | 2015-2023 | React Native a Expo                            |
+| Jindřichův Hradec v mobilu  | 2015-2023 | Migrace z Cordova na React Native a Expo       |
+| Kuřim v mobilu              | 2014-2023 | React Native a Expo                            |
+| Poznej Hradec               | 2014-2023 | React Native (Android / iOS)                   |
+| BITVA 1866                  | 2016-2023 | Android/iOS                                    |
+| Dny Evropského Dědictví     | 2018-2022 | Expo, React Native                             |
+| Textilní a oděvní dílna     | 2016      | Native Android (Java)                          |
+| Kojetín v mobilu            | 2016-2020 | Expo, React Native                             |
+| Týniště nad Orlicí          | 2017-2020 | Expo, React Native                             |
+| Český ráj                   | 2016-2020 | Expo, React Native                             |
+| Český systém kvality služeb | 2015      | Cordova (Android/iOS)                          |
+| Mladoboleslavsko            | 2015      | Ionic/Cordova (Android/iOS)                    |
+| Průvodce Libereckým krajem  | 2015      | Ionic/Cordova (Android/iOS)                    |
 
-## 🔭 Current Projects
+## 🔭 Aktuální projekty
 
 ### 🎨 miccy-verse
 
-- 🧩 Universal UI design system
-- 🔄 Same style and behavior for Native/Web components
+- 🧩 Univerzální design systém UI
+- 🔄 Stejný styl a chování komponent Native/Web
 - 📐 Layouts, Templates, Bento Grids
 - 🛠️ Stack: React Native, Lynx, Astro, React, Tanstack
 
@@ -225,19 +225,19 @@ timeline
 
 ### 💎 Zvono Pawnshop
 
-- 💼 Internal customer management system
-- 🌐 Company website
-- 🚧 In active development
+- 💼 Interní systém pro správu zákazníků
+- 🌐 Firemní prezentační web
+- 🚧 V aktivním vývoji
 - 🛠️ Stack: Expo, Next.js, TailwindCSS, Supabase, PostgreSQL, TypeScript, React, Node.js
 
 ### 💡 Ignis WLED controller
 
-- 📱 Mobile/Desktop application for controlling light-shows
-- 🎨 Studio for programming pixel light POI/Staff
+- 📱 Mobile/Desktop aplikace pro řízení light-show
+- 🎨 Studio pro programování pixel light POI/Staff
 - 🛠️ Stack: React Native, Typescript, Rust, Tauri, LegendState
 
-## 📫 Contacts
+## 📫 Kontakty
 
 - 🔗 LinkedIn: [@miccy](https://www.linkedin.com/in/miccy)
 - 📧 Email - Info: [info@miccy.dev](mailto:info@miccy.dev)
-- 📧 Email - Collaboration: [collab@miccy.dev](mailto:collab@miccy.dev)
+- 📧 Email - Spolupráce: [collab@miccy.dev](mailto:collab@miccy.dev)
