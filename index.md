@@ -54,7 +54,7 @@ title: Miloš Macek - Portfolio
   - [🎓 2004 - 2008](#-2004---2008)
 - [📚 Pracovní zkušenosti a projekty](#-pracovní-zkušenosti-a-projekty)
   - [💼 Freelancer (2019 - současnost)](#-freelancer-2019---současnost)
-  - [💼 As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
+  - [💼 As4u.cz (2014 - 2018)](#-as4ucz-2004---2018)
 - [🔭 Aktuální projekty](#-aktuální-projekty)
   - [🎨 miccy-verse](#-miccy-verse)
   - [₿ SATstation](#-satstation)
@@ -156,7 +156,7 @@ timeline
 | [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
 | Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | ReactJS, React Native, Expo, Firebase  |
 
-### 💼 As4u.cz (2004 - 2018)
+### 💼 As4u.cz (2014 - 2018)
 
 - Updaty aplikací do 2024
 

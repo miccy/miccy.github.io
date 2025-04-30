@@ -5,7 +5,7 @@
   - 📱 [Zvono Pawnshop](#-zvono-pawnshop)
 - 📚 [Work Experience & Projects](#-work-experience--projects)
   - 👨‍💻 [Freelancer (2019 - Present)](#-freelancer-2019---present)
-  - 👨‍💻 [As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
+  - 👨‍💻 [As4u.cz (2014 - 2018)](#-as4ucz-2004---2018)
 
 ## 🔍 Current Projects
 
@@ -35,7 +35,7 @@ Complete business solution. Repo: [zvono](https://github.com/miccy-dev/zvono)
 | [myPlann](https://www.sabservis.cz/myplann)                | [SABService](https://www.sabservis.cz)             | 2022              | React Native, Expo                |
 | Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | React Native, Expo, Firebase      |
 
-## As4u.cz (2004 - 2018)
+## As4u.cz (2014 - 2018)
 
 - Employer: [As4u.cz](https://www.as4u.cz/)
 - Repo: [as4u](https://github.com/miccy-dev/as4u)

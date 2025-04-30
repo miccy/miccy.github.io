@@ -55,7 +55,7 @@
   - [🎓 2004 - 2008](#-2004---2008)
 - [📚 Work Experience and Projects](#-work-experience-and-projects)
   - [💼 Freelancer (2019 - Present)](#-freelancer-2019---present)
-  - [💼 As4u.cz (2004 - 2018)](#-as4ucz-2004---2018)
+  - [💼 As4u.cz (2014 - 2018)](#-as4ucz-2004---2018)
 - [🔭 Current Projects](#-current-projects)
   - [🎨 miccy-verse](#-miccy-verse)
   - [₿ SATstation](#-satstation)
@@ -181,7 +181,7 @@ timeline
 | [SharkTracker](https://www.ocearch.org/tracker/?)          | [Mapotic](https://www.mapotic.cz)                  | 2021              | React Native, Maps, RestAPI            |
 | Keys of the Treasure                                       | [Sundisk](https://www.sundisk.cz/cs/)              | 2020              | ReactJS, React Native, Expo, Firebase  |
 
-### 💼 As4u.cz (2004 - 2018)
+### 💼 As4u.cz (2014 - 2018)
 
 - App updates until 2024
 
