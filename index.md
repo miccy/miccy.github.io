@@ -14,6 +14,9 @@ title: Miloš Macek - Portfolio
 
 <br/>
 <div align="center" style="margin-top: 10px; margin-bottom: 30px;">
+  <a href="../en/README.md">
+    <img src="https://img.shields.io/badge/🇬🇧_English-00ACEE?style=for-the-badge" alt="English version"/>
+  </a>
   <a href="mailto:info@miccy.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -64,45 +67,116 @@ title: Miloš Macek - Portfolio
 </details>
 <br/> -->
 
+## 🚀 O mně
+
+Jsem nezávislý full-stack vývojář s patnáctiletou zkušeností. Dříve jsem se specializoval hlavně na vývoj mobilních aplikací, ale v současné době se zaměřuji více na backend, SaaS, neopomíjím ani novinky ohledně webových aplikací, zkoumám možnosti integrace LLMs. Mým cílem je vytvářet robustní, uživatelsky přívětivá řešení, která propojují osvědčené postupy a nově vznikající technologie.
+
 ## 🛠 Tech Stack
 
-<div align="left">
-
-- ### Programovací jazyky: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/><img src="https://img.shields.io/badge/Effect-5364FF?style=for-the-badge&logoColor=white" alt="Effect"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></span>
-
-- ### Mobilní vývoj: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/><img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo"/><img src="https://img.shields.io/badge/EAS-000000?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"/><img src="https://img.shields.io/badge/Tamagui-8358FF?style=for-the-badge&logoColor=white" alt="Tamagui"/><img src="https://img.shields.io/badge/Gluestack-E535AB?style=for-the-badge&logoColor=white" alt="Gluestack"/><img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind"/></span>
-
-- ### Frontend UI/UX: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/><img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></span>
-
-- ### State Management: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/><img src="https://img.shields.io/badge/LegendState-008fc7?style=for-the-badge&logo=react&logoColor=white" alt="LegendState"/><img src="https://img.shields.io/badge/Zustand-443F36?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/><img src="https://img.shields.io/badge/TanStack_Query-ef4444?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"/><img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Context API"/></span>
-
-- ### Backend Frameworks: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/><img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/><img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"/><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></span>
-
-- ### API Types & Tools: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white" alt="REST API"/><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/><img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo"/><img src="https://img.shields.io/badge/Webhooks-25c1f0?style=for-the-badge&logoColor=white" alt="Webhooks"/><img src="https://img.shields.io/badge/Cron-00866A?style=for-the-badge&logoColor=white" alt="Cron"/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logoColor=white" alt="OpenAPI"/></span>
-
-- ### Backend as a Service: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/><img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite"/></span>
-
-- ### Database & ORM: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/><img src="https://img.shields.io/badge/Drizzle_ORM-224DBA?style=for-the-badge&logoColor=white" alt="Drizzle ORM"/><img src="https://img.shields.io/badge/Watermelon-F92B71?style=for-the-badge&logoColor=white" alt="Watermelon"/></span>
-
-- ### DevOps & CI/CD: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/><img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Turborepo"/></span>
-
-- ### Testování: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/><img src="https://img.shields.io/badge/Detox-5849BE?style=for-the-badge&logo=react&logoColor=white" alt="Detox"/><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></span>
-
-- ### Monitoring: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></span>
-
-- ### Vývojové nástroje: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/><img src="https://img.shields.io/badge/Cursor-121212?style=for-the-badge&logoColor=white" alt="Cursor"/><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/></span>
-
-- ### Bezpečnost & Autentizace: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logoColor=white" alt="Clerk"/><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/><img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"/><img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logoColor=white" alt="OAuth"/></span>
-
-- ### Platební brány: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></span>
-
-- ### CMS: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Payload_CMS-333333?style=for-the-badge&logo=payload&logoColor=white" alt="Payload CMS"/><img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/><img src="https://img.shields.io/badge/Directus-263238?style=for-the-badge&logo=directus&logoColor=white" alt="Directus"/></span>
-
-- ### AI & ML: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/><img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white" alt="LangChain"/><img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/></span>
-
-- ### Desktop aplikace: <span style="display: inline-flex; align-items: center; vertical-align: middle; margin-left: 10px;"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/></span>
-
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td width="200" style="border: none; padding: 0;"><strong>Programovací jazyky:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap; padding: 10px 0 0 0;">
+    <a href=""><img src="https://img.shields.io/badge/TypeScript-666666?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"><img src="https://img.shields.io/badge/Effect-444444?style=for-the-badge&logoColor=white" alt="Effect"><img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Mobile:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/React_Native-666666?style=for-the-badge&logo=react&logoColor=white" alt="React Native"><img src="https://img.shields.io/badge/Expo-555555?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"><img src="https://img.shields.io/badge/EAS-444444?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"><img src="https://img.shields.io/badge/Tamagui-333333?style=for-the-badge&logoColor=white" alt="Tamagui"><img src="https://img.shields.io/badge/Gluestack-222222?style=for-the-badge&logoColor=white" alt="Gluestack"><img src="https://img.shields.io/badge/NativeWind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Frontend:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/HTML5-777777?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><img src="https://img.shields.io/badge/CSS3-666666?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white" alt="React"><img src="https://img.shields.io/badge/Next_JS-444444?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"><img src="https://img.shields.io/badge/Astro-333333?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"><img src="https://img.shields.io/badge/Radix_UI-222222?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"><img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Backend:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Node.js-666666?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"><img src="https://img.shields.io/badge/Bun-555555?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"><img src="https://img.shields.io/badge/Serverless-444444?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"><img src="https://img.shields.io/badge/Deno-333333?style=for-the-badge&logo=deno&logoColor=white" alt="Deno"><img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"><img src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Desktop:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Electron-222222?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"><img src="https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>State:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Redux-555555?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"><img src="https://img.shields.io/badge/LegendState-444444?style=for-the-badge&logo=react&logoColor=white" alt="LegendState"><img src="https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"><img src="https://img.shields.io/badge/TanStack_Query-222222?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"><img src="https://img.shields.io/badge/Context_API-111111?style=for-the-badge&logo=react&logoColor=white" alt="Context API">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>API:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/REST_API-777777?style=for-the-badge&logo=api&logoColor=white" alt="REST API"><img src="https://img.shields.io/badge/GraphQL-666666?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"><img src="https://img.shields.io/badge/Apollo-555555?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo"><img src="https://img.shields.io/badge/Webhooks-444444?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks"><img src="https://img.shields.io/badge/Cron-333333?style=for-the-badge&logo=clockify&logoColor=white" alt="Cron"><img src="https://img.shields.io/badge/Swagger-222222?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"><img src="https://img.shields.io/badge/OpenAPI-111111?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Backend as a Service:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"><img src="https://img.shields.io/badge/Firebase-222222?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"><img src="https://img.shields.io/badge/Appwrite-111111?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Database & ORM:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><img src="https://img.shields.io/badge/SQLite-444444?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"><img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"><img src="https://img.shields.io/badge/Drizzle_ORM-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMS45OTggMGMyLjQ0OSAwIDQuNjYzLjk5NCA2LjI2NyAyLjYwMmE4Ljg0NiA4Ljg0NiAwIDAgMSAyLjU5OSA2LjI3OCA4Ljg0NiA4Ljg0NiAwIDAgMS0yLjU5OSA2LjI3OGMtMS42MDQgMS42MDgtMy44MTggMi42MDItNi4yNjcgMi42MDItMi40NDkgMC00LjY2NC0uOTk0LTYuMjY3LTIuNjAyYTguODQ2IDguODQ2IDAgMCAxLTIuNi02LjI3OCA4Ljg0NiA4Ljg0NiAwIDAgMSAyLjYtNi4yNzhDNy4zMzQuOTk0IDkuNTQ5IDAgMTEuOTk4IDB6Ii8+PC9zdmc+&logoColor=white" alt="Drizzle ORM"><img src="https://img.shields.io/badge/Watermelon-111111?style=for-the-badge&logo=watermelon&logoColor=white" alt="Watermelon">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>DevOps & CI/CD:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Git-666666?style=for-the-badge&logo=git&logoColor=white" alt="Git"><img src="https://img.shields.io/badge/GitHub_Actions-555555?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"><img src="https://img.shields.io/badge/CI%2FCD-444444?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD"><img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><img src="https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"><img src="https://img.shields.io/badge/Turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Testování:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Jest-444444?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"><img src="https://img.shields.io/badge/Detox-333333?style=for-the-badge&logo=wix&logoColor=white" alt="Detox"><img src="https://img.shields.io/badge/Vitest-222222?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"><img src="https://img.shields.io/badge/Cypress-111111?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Monitoring:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Sentry-222222?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"><img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Vývojové nástroje:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/VS_Code-444444?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"><img src="https://img.shields.io/badge/Cursor-333333?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"><img src="https://img.shields.io/badge/Replit-222222?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"><img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Autentizace:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Clerk-444444?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"><img src="https://img.shields.io/badge/Auth0-333333?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"><img src="https://img.shields.io/badge/NextAuth.js-222222?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"><img src="https://img.shields.io/badge/OAuth-111111?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>Platební brány:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Stripe-222222?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"><img src="https://img.shields.io/badge/PayPal-111111?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>CMS:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Payload_CMS-333333?style=for-the-badge&logo=ghost&logoColor=white" alt="Payload CMS"><img src="https://img.shields.io/badge/Strapi-222222?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"><img src="https://img.shields.io/badge/Directus-111111?style=for-the-badge&logo=directus&logoColor=white" alt="Directus">
+    </td>
+  </tr>
+  <tr>
+    <td width="200" style="border: none; padding: 8px 0;"><strong>AI & ML:</strong></td>
+    <td align="right" style="border: none; white-space: nowrap;">
+      <img src="https://img.shields.io/badge/Hugging_Face-444444?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"><img src="https://img.shields.io/badge/LangChain-333333?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"><img src="https://img.shields.io/badge/Claude-222222?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"><img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+    </td>
+  </tr>
+</table>
 
 ## 🔄 Timeline
 
